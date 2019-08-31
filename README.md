@@ -12,7 +12,8 @@ Ej: 8;9;-123;-125;0;132;145;2.4;-1.2;91;unpaz;34;taller;-21
 _El programa debe producir un archivo de salida por cada tira de números del_
 _archivo de entrada. El nombre del archivo de salida debe ser_
 ```
-"<archivo_entrada>_salida_<i>.txt” ```
+"<archivo_entrada>_salida_<i>.txt” 
+```
 _donde i es el número de tira o línea dentro del_
 _archivo de entrada (inicie con i = 1)_
 _El archivo de salida debe contener distintas líneas con los siguientes resultados_
