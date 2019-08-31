@@ -1,5 +1,5 @@
 # TP-cero-Taller-de-programacion
-##Primer proyecto del taller de programación 🚀
+## Primer proyecto del taller de programación 🚀
 
 ### Ejercicio:🔧
 
