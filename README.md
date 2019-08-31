@@ -52,6 +52,7 @@ _necesarias)._<br/>
 • Se espera que la función que calcula el factorial sea recursiva.<br/>
 
 ## Autores: ✒️
-* [Alejandro G. Vera](https://alexielardilla.github.io/dev_portfolio/)
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
 * **Pedro Vera**<br/></br>
 # Enjoy!
+
