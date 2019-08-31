@@ -1,4 +1,4 @@
-# TP-cero-Taller-de-programaci-n
+# TP-cero-Taller-de-programacion
 Primer proyecto del taller de programación
 
 Ejercicio:
